@@ -1,1 +1,17 @@
+---
+- summary: |
+    Поиск товара 
+ status: fail
 
+- summary: |
+    Фильтровать товар
+  status: pass
+
+- summary: |
+    Успешное добавление товара в корзину
+  status: pass
+
+- summary: |
+    Просмотор товара
+  status: pass
+    
