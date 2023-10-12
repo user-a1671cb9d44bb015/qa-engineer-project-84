@@ -1,1 +1,17 @@
+---
+test-cases:
+  - summary: |
+      Поиск товара по ключивому слову
+    status: fail
 
+bugreports:
+  - summary: |
+      Нельзя найти по ключивому слову
+    environment: |
+      Google hrome 107.0.5304.121 OC Linux 22.04
+    steps-to-reproduce: |
+      Ввести в поле "Поиск" слово "смартфон"
+    expected-result: |
+      В списке отображается только товары, которые содержат слово "смартфон"
+    actual-result: |
+      На страницы надпись "Ничего не найдено!"
