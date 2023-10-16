@@ -2,7 +2,7 @@
 test-cases:
   - summary: |
       Поиск товара по ключивому слову
-    status: pass
+    status: fail
 
   - summary: |
       Поиск товара по ключивому слову
