@@ -2,6 +2,10 @@
 test-cases:
   - summary: |
       Поиск товара по ключивому слову
+    status: pass
+
+  - summary: |
+      Поиск товара по ключивому слову
     status: fail
 
 bugreports:
