@@ -1,7 +1,7 @@
 ---
 - summary: |
     Поиск товара 
- status: fail
+  status: fail
 
 - summary: |
     Фильтровать товар
