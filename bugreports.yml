@@ -1,7 +1,7 @@
 ---
 - summary: |
     Не работает поиск по ключивому слову
-  environmet: |
+  environment: |
     Google hrome 107.0.5304.121 (Официальная сборка) (64 бит) OC Linux 22.04
   steps-to-reproduce: |
     Зайти на страницу https://hexlet-products-store.vercel.app/
