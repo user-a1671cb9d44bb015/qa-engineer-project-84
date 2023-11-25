@@ -14,4 +14,53 @@
 - summary: |
     Просмотор товара
   status: pass
+
+  - summary: |
+    Возможность ввода запроса 
+  status: pass
+
+  - summary: |
+    Поиск по названию товара (одно слово) 
+  status: pass
+
+  - summary: |
+    Поиск по наименованию товара (два слова) 
+  status: fail
+
+  - summary: |
+    Поиск по включению 
+  status: pass
+
+  - summary: |
+    Поиск по несуществуюющему наименованию 
+  status: pass
+
+  - summary: |
+    Поиск товара по бренду
+  status: pass
+
+  - summary: |
+    Фильтр стоимости в меню поиска
+  status: pass
+
+  - summary: |
+    Навигация по сайту
+  status: pass
+
+  - summary: |
+    Удаление товара из корзины
+  status: pass
+
+  - summary: |
+    Очистка корзины
+  status: pass
+
+  - summary: |
+    Оформление заказа
+  status: pass
+
+
+  
+
+  
     
